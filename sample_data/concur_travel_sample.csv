@@ -1,0 +1,43 @@
+Expense Type,Transaction Date,Description,Departure Airport Code,Arrival Airport Code,Distance (km),Nights,Vendor Name,Employee Name,Amount (INR),Manager Approval
+Airfare,2024-01-08,Mumbai to Delhi business review,BOM,DEL,,,IndiGo Airlines,Priya Sharma,12500,Approved
+Hotel,2024-01-08,Hotel accommodation Delhi 3 nights,,,, 3,Taj Hotels,Priya Sharma,28500,Approved
+Taxi,2024-01-08,Airport to hotel transfer Delhi,,, 28,,Ola Cabs,Priya Sharma,650,Approved
+Airfare,2024-01-11,Delhi to Mumbai return,DEL,BOM,,,IndiGo Airlines,Priya Sharma,11800,Approved
+Taxi,2024-01-11,Hotel to airport Delhi,,, 31,,Uber India,Priya Sharma,720,Approved
+Airfare,2024-01-15,Mumbai to Bangalore client meeting,BOM,BLR,,,Air India,Rahul Mehta,9800,Approved
+Hotel,2024-01-15,Hotel accommodation Bangalore 2 nights,,,,2,ITC Hotels,Rahul Mehta,18600,Approved
+Taxi,2024-01-15,Airport transfers Bangalore,,, 45,,Ola Cabs,Rahul Mehta,1200,Approved
+Airfare,2024-01-17,Bangalore to Mumbai return,BLR,BOM,,,Air India,Rahul Mehta,9200,Approved
+Airfare,2024-01-22,Delhi to London investor meeting,DEL,LHR,,,British Airways,Vikram Nair,85000,Approved
+Hotel,2024-01-22,Hotel London 4 nights,,,,4,Marriott Hotels,Vikram Nair,95000,Approved
+Taxi,2024-01-22,Airport transfers London,,, 52,,Heathrow Express,Vikram Nair,8500,Approved
+Airfare,2024-01-26,London to Delhi return,LHR,DEL,,,British Airways,Vikram Nair,82000,Approved
+Airfare,2024-02-05,Mumbai to Chennai factory visit,BOM,MAA,,,SpiceJet,Ananya Krishnan,7200,Approved
+Hotel,2024-02-05,Hotel accommodation Chennai 1 night,,,,1,Hyatt Hotels,Ananya Krishnan,8900,Approved
+Taxi,2024-02-05,Airport taxi Chennai,,, 18,,Local Taxi,Ananya Krishnan,480,Approved
+Airfare,2024-02-06,Chennai to Mumbai return,MAA,BOM,,,SpiceJet,Ananya Krishnan,6800,Approved
+Airfare,2024-02-12,Mumbai to Dubai partner summit,BOM,DXB,,,Emirates,Sanjay Patel,45000,Approved
+Hotel,2024-02-12,Hotel Dubai 3 nights,,,,3,Hilton Hotels,Sanjay Patel,52000,Approved
+Taxi,2024-02-12,Transfers Dubai,,, 38,,Careem,Sanjay Patel,4200,Approved
+Airfare,2024-02-15,Dubai to Mumbai return,DXB,BOM,,,Emirates,Sanjay Patel,42000,Approved
+Airfare,2024-02-19,Delhi to Hyderabad,DEL,HYD,,,IndiGo Airlines,Meera Iyer,8100,Approved
+Hotel,2024-02-19,Hotel Hyderabad 2 nights,,,,2,Novotel,Meera Iyer,14200,Approved
+Airfare,2024-02-21,Hyderabad to Delhi return,HYD,DEL,,,IndiGo Airlines,Meera Iyer,7900,Approved
+Airfare,2024-03-04,Mumbai to Singapore tech conference,BOM,SIN,,,Singapore Airlines,Rohan Desai,62000,Approved
+Hotel,2024-03-04,Hotel Singapore 4 nights,,,,4,Marina Bay Sands,Rohan Desai,88000,Approved
+Taxi,2024-03-04,Transfers Singapore,,, 65,,Grab,Rohan Desai,5200,Approved
+Airfare,2024-03-08,Singapore to Mumbai return,SIN,BOM,,,Singapore Airlines,Rohan Desai,58000,Approved
+Airfare,2024-03-11,Delhi to New York annual conference,DEL,JFK,,,Air India,Vikram Nair,110000,Approved
+Hotel,2024-03-11,Hotel New York 5 nights,,,,5,Hilton Midtown,Vikram Nair,145000,Approved
+Airfare,2024-03-16,New York to Delhi return,JFK,DEL,,,Air India,Vikram Nair,105000,Approved
+Airfare,2024-03-18,Mumbai to Kolkata audit,BOM,CCU,,,Vistara,Priya Sharma,9500,Approved
+Hotel,2024-03-18,Hotel Kolkata 2 nights,,,,2,ITC Sonar,Priya Sharma,16400,Approved
+Airfare,2024-03-20,Kolkata to Mumbai return,CCU,BOM,,,Vistara,Priya Sharma,9200,Approved
+Taxi,2024-03-20,Ground transport Kolkata,,, 72,,Ola Cabs,Priya Sharma,1650,Approved
+Airfare,2024-04-02,Mumbai to Frankfurt supplier visit,BOM,FRA,,,Lufthansa,Rahul Mehta,78000,Approved
+Hotel,2024-04-02,Hotel Frankfurt 3 nights,,,,3,Marriott Frankfurt,Rahul Mehta,62000,Approved
+Airfare,2024-04-05,Frankfurt to Mumbai return,FRA,BOM,,,Lufthansa,Rahul Mehta,74000,Approved
+Airfare,2024-04-10,Bangalore to Goa team offsite,BLR,GOI,,,Indigo,Ananya Krishnan,5200,Pending
+Hotel,2024-04-10,Hotel Goa 3 nights,,,,3,Taj Fort Aguada,Ananya Krishnan,22000,Pending
+Airfare,2024-04-14,Delhi to Mumbai internal meeting,DEL,BOM,,,IndiGo Airlines,Meera Iyer,8800,Approved
+Taxi,2024-04-14,Mumbai airport to office,,, 35,,Uber India,Meera Iyer,890,Approved
