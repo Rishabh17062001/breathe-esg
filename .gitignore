@@ -1,3 +1,7 @@
+# Claude
+.claude/
+backend/.claude/
+
 # Python
 backend/.venv/
 backend/__pycache__/
